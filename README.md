@@ -11,3 +11,14 @@ practical 2:
 Summary:
 This practical implements with Linear Search and Binary Search algorithms to search for an element in a list
 It also measures and compares the execution time of both searching techniques.
+
+Conclusion:
+Linear Search is simple and works on any list while Binary search is faster but requires the list to be sorted.
+This Practical helps understand the efficiency and application of both searching algorithms.
+
+Practical 3:
+Summary:
+This practical implements the heap sort algorithm uisng a Max Heap in python it sorts the given elements in ascending order and calculates the execution time.
+
+Conclusion:
+Heap sort provides consistent O(n log n) performance in all cases It is an efficient sorting algorithm and usess O(1) extra space.
