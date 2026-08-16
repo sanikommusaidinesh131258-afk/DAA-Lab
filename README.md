@@ -22,3 +22,10 @@ This practical implements the heap sort algorithm uisng a Max Heap in python it 
 
 Conclusion:
 Heap sort provides consistent O(n log n) performance in all cases It is an efficient sorting algorithm and usess O(1) extra space.
+
+practical 4:
+Summary:
+This Practical calculates the factorial of a number using iterative and recursive method in python. It also measures execution time and display the time and space complexity.
+
+Conclusion:
+Both methods produce the same factorial result,but the iterative method uses less memory.The recursive method is simpler to understand but requires extra stack space.
