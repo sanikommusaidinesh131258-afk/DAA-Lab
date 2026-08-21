@@ -29,3 +29,10 @@ This Practical calculates the factorial of a number using iterative and recursiv
 
 Conclusion:
 Both methods produce the same factorial result,but the iterative method uses less memory.The recursive method is simpler to understand but requires extra stack space.
+
+Practical 7:
+summary:
+it stores the minimum coins required for each amount and tracks the coins used to produce the optimAL SOLUTION
+
+CONCLUSION:
+the program succesfully uses dynamic programmingh to find the minimum numbetr of coin needed to make a given amount
