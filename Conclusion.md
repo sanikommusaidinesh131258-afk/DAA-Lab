@@ -39,7 +39,7 @@ the program succesfully uses dynamic programmingh to find the minimum numbetr of
 
 PRACTICAL-5:
 SUMMARY:The 0/1 Knapsack problem was successfully implemented using dynamic programming to efficiently find the maximum possible value
-        within the given weight capacity.
+within the given weight capacity.
 
 CONCLUSION: Dynamic programming reduces repeated calculations and provides an optimal solution with improved efficiency compared to the brute-force approach.
 
@@ -47,3 +47,14 @@ PRACTICAL-6:
 SUMMARY:The Matrix Chain Multiplication problem was implemented using dynamic programming to determine the most efficient order of multiplying matrices.
 
 CONCLUSION: Dynamic programming minimizes the total number of scalar multiplications and provides an optimal matrix multiplication sequence efficiently.
+
+Practical 8:
+Summary:The code implements Breadth-First Search (BFS) using a queue to traverse the graph level-by-level, and Depth-First Search (DFS) using recursion to explore graph paths as deep as possible before backtracking.
+
+Conclusion: Both algorithms successfully traverse all reachable nodes in an undirected graph without infinite loops, where BFS (['A', 'B', 'C', 'D', 'E']) is ideal for level-order exploration and finding shortest paths, while DFS (['A', 'B', 'D', 'E', 'C']) efficiently explores deep structural paths.
+
+Practical 9:
+Summary:
+The code implements Prim's Algorithm using an adjacency matrix to find the Minimum Spanning Tree (MST) of a weighted, connected, undirected graph with 4 vertices (`A`, `B`, `C`, `D`).
+
+Conclusion:The algorithm successfully connects all vertices with the minimum total edge weight of 9 greedily selecting the lowest-weight edge to grow the MST without creating cycles.
